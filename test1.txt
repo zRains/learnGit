@@ -1,1 +1,40 @@
-hello git
+hello gitffasf
+acs
+
+svcsvc
+Csaecs
+svcsvccsec
+
+Csaecs
+svcsvccsecvse
+import { ref, Ref } from 'vue'
+
+export default function () {
+// states
+
+// mutations
+
+// actions
+
+return {
+state: {},
+mutations: {},
+actions: {},
+}
+}svcsvccsec
+
+
+
+
+
+#include <stdio.h>
+#include <stdlib.h>
+
+
+int main(void)
+{
+
+
+system("pause");
+return 0;
+}
