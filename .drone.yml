@@ -8,8 +8,8 @@ steps:
       - npm install
     when:
       branch:
-        - main
+        - facker
 
 trigger:
   branch:
-    - main
+    - facker
