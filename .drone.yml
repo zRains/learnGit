@@ -1,0 +1,15 @@
+kind: pipeline
+name: Drone ci
+
+steps:
+  - name: unit test
+    image: node
+    commands:
+      - npm install
+    when:
+      branch:
+        - main
+
+trigger:
+  branch:
+    - main
